@@ -48,6 +48,7 @@
           <input type="checkbox" class="pass">
           <p class="passwordChange">Show password</p> 
         </div>
+        <p class="forgot-p"><a href="reset.php">Forgot password?</a></p>
        </div>
 
         <button name="submit" type="submit">Login</button>
